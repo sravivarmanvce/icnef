@@ -9,7 +9,7 @@ http://www.tooplate.com/view/2111-pro-line
 body {
   font-family: "Open Sans", sans-serif;
   font-size: 17px;
-  color: #626262;
+  color: #000000;
   overflow-x: hidden;
 }
 
@@ -107,7 +107,7 @@ p:last-child {
 }
 
 .tm-navbar-nav {
-  font-size: 1.3rem;
+  font-size: 1.1rem;
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
@@ -272,7 +272,7 @@ p:last-child {
 }
 
 .tm-company-img-container img {
-  width: 400px;
+  width: 220px;
   height: auto;
 }
 
