@@ -84,7 +84,7 @@ p:last-child {
 }
 
 .navbar-expand-md .navbar-nav .nav-link {
-  padding: 10px 35px;
+  padding: 10px 3px;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -547,6 +547,6 @@ figure {
 
 @media (min-width: 767px) and (max-width: 992px) {
   .navbar-expand-md .navbar-nav .nav-link {
-    padding: 10px 15px;
+    padding: 10px 2px;
   }
 }
