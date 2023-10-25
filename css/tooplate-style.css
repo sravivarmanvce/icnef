@@ -213,6 +213,25 @@ p:last-child {
   position: relative;
 }
 
+
+.tm-parallaxpapers {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100%;
+  height: 240px;
+  background-image: url(../img/img-papers.jpg);
+  margin-bottom: 68px;
+  position: relative;
+}
+
+
 .tm-parallax-header {
   background: rgba(0, 0, 0, 0.7);
   width: 100%;
@@ -235,17 +254,17 @@ p:last-child {
   -ms-flex-align: center;
   align-items: center;
   border: 1px solid #c7c7c7;
-  padding: 30px 20px;
-  margin-bottom: 38px;
+  padding: 10px 10px;
+  margin-bottom: 18px;
 }
 
 .tm-activity-block-text {
-  padding-left: 24px;
-  padding-right: 24px;
+  padding-left: 14px;
+  padding-right: 14px;
 }
 
 .tm-activity-block-text h3 {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .tm-activity-img-container {
@@ -529,7 +548,7 @@ figure {
   }
 
   .tm-activity-block-text {
-    margin-top: 20px;
+    margin-top: 10px;
   }
 }
 
